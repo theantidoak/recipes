@@ -1,0 +1,42 @@
+.header {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 45px;
+}
+
+img.chila {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    font-size: 40px;
+}
+
+.explain1 {
+    text-align: center;
+}
+
+.list0 {
+    text-align: center;}
+    
+.list1 {
+    color: green;
+    display: inline-block; text-align: left;
+}
+
+dt {
+    text-align: center;
+    font-size: 25px;
+    color:rgb(255, 0, 0);
+}
+
+dd {
+    text-align: center;
+    font-size: 15px;
+}
